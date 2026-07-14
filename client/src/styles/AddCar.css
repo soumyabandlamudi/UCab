@@ -1,0 +1,43 @@
+.add-car-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.add-car-card {
+  width: 420px;
+  background: white;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 3px 12px rgba(0,0,0,.15);
+}
+
+.add-car-card h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  color:#1F2937;
+}
+
+.add-car-card form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.add-car-card input,
+.add-car-card button {
+  padding: 10px;
+}
+
+.add-car-card button {
+  cursor: pointer;
+}
+
+.add-car-card label{
+    color:#374151;
+}
+
+.add-car-card input,
+.add-car-card select{
+    color:#111827;
+}

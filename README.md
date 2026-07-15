@@ -82,3 +82,6 @@ https://docs.google.com/document/d/17I8-OYmrRcs6TZVHYNZ8wMEG5SQAufWphUi7oQbJQX4/
 
 Demo Video
 https://drive.google.com/file/d/1P8MR6D7Tk0W0Q_6DjKHqiOm4latqWg8r/view?usp=sharing
+
+Phase-Wise Templates
+https://drive.google.com/drive/folders/1NZVyoV54-5Jyj4ThO373JW1CrYFjb4l6?usp=sharing

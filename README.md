@@ -76,3 +76,9 @@ Driver Module
 Ratings and Reviews
 Notifications
 GPS Integration
+
+Project Documentation
+https://docs.google.com/document/d/17I8-OYmrRcs6TZVHYNZ8wMEG5SQAufWphUi7oQbJQX4/edit?usp=drive_link
+
+Demo Video
+https://drive.google.com/file/d/1P8MR6D7Tk0W0Q_6DjKHqiOm4latqWg8r/view?usp=sharing
